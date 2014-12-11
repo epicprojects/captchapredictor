@@ -14,6 +14,10 @@ This project was created for educational purposes, It uses machine learning and 
 * ImageJ (http://imagej.nih.gov/ij)
 * JavaOCR (http://sourceforge.net/projects/javaocr)
 
+**Tools Used**
+* Netbeans
+* Visual Studio
+
 
 Screenshots
 ===========
