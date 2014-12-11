@@ -1,4 +1,4 @@
-Captcha Cracker
+Captcha Predictor
 ==============
 
 This project was created for educational purposes, It uses machine learning and visual image processing techniques to predict captchas of http://captchas.net. Artifical Neural Network, Support Vector Machine, Decision Tree and Naive Bayes are used for the process of prediction.
