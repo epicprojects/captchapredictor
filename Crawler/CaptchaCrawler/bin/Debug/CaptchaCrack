@@ -1,0 +1,122 @@
+% ----------------------------------------------------------------------------
+% This is a Generated Dataset for CAPTCHA Cracking
+% Following dataset contains data of 16 x 16  8-bit images crawled from
+% Captchas.net website, this whole process is a part of an educational project
+% -
+% - More meta can be added
+%-------------------------------------------------------------
+
+
+@relation captcha
+
+
+
+@attribute px1 real
+@attribute px2 real
+@attribute px3 real
+@attribute px4 real
+@attribute px5 real
+@attribute px6 real
+@attribute px7 real
+@attribute px8 real
+@attribute px9 real
+@attribute px10 real
+@attribute px11 real
+@attribute px12 real
+@attribute px13 real
+@attribute px14 real
+@attribute px15 real
+@attribute px16 real
+@attribute px17 real
+@attribute px18 real
+@attribute px19 real
+@attribute px20 real
+@attribute px21 real
+@attribute px22 real
+@attribute px23 real
+@attribute px24 real
+@attribute px25 real
+@attribute px26 real
+@attribute px27 real
+@attribute px28 real
+@attribute px29 real
+@attribute px30 real
+@attribute px31 real
+@attribute px32 real
+@attribute px33 real
+@attribute px34 real
+@attribute px35 real
+@attribute px36 real
+@attribute px37 real
+@attribute px38 real
+@attribute px39 real
+@attribute px40 real
+@attribute px41 real
+@attribute px42 real
+@attribute px43 real
+@attribute px44 real
+@attribute px45 real
+@attribute px46 real
+@attribute px47 real
+@attribute px48 real
+@attribute px49 real
+@attribute px50 real
+@attribute px51 real
+@attribute px52 real
+@attribute px53 real
+@attribute px54 real
+@attribute px55 real
+@attribute px56 real
+@attribute px57 real
+@attribute px58 real
+@attribute px59 real
+@attribute px60 real
+@attribute px61 real
+@attribute px62 real
+@attribute px63 real
+@attribute px64 real
+@attribute px65 real
+@attribute px66 real
+@attribute px67 real
+@attribute px68 real
+@attribute px69 real
+@attribute px70 real
+@attribute px71 real
+@attribute px72 real
+@attribute px73 real
+@attribute px74 real
+@attribute px75 real
+@attribute px76 real
+@attribute px77 real
+@attribute px78 real
+@attribute px79 real
+@attribute px80 real
+@attribute px81 real
+@attribute px82 real
+@attribute px83 real
+@attribute px84 real
+@attribute px85 real
+@attribute px86 real
+@attribute px87 real
+@attribute px88 real
+@attribute px89 real
+@attribute px90 real
+@attribute px91 real
+@attribute px92 real
+@attribute px93 real
+@attribute px94 real
+@attribute px95 real
+@attribute px96 real
+@attribute px97 real
+@attribute px98 real
+@attribute alphabet {a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z}
+
+
+
+@data
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,w
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,m
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,w
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,0,0,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,n
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,k
+0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,x

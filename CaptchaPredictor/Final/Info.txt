@@ -1,0 +1,7 @@
+A Machine Learning Educational Project That Can Crack Captchas.NET Captchas.
+
+By
+
+Omer Shafiq	FA09-BCS-098
+Ihsan Ullah	FA09-BCS-153
+Adnan Bajwa	FA09-BCS-163

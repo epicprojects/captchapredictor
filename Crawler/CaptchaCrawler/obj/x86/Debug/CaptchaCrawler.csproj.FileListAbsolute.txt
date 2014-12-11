@@ -1,0 +1,10 @@
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\CaptchaCrawler.Form1.resources
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\CaptchaCrawler.Properties.Resources.resources
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\bin\Debug\CaptchaCrawler.exe
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\bin\Debug\CaptchaCrawler.pdb
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\CaptchaCrawler.exe
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\CaptchaCrawler.pdb
+D:\Projectx\CaptchaCrawler\CaptchaCrawler\obj\x86\Debug\CaptchaCrawler.ConvertToARFF.resources
