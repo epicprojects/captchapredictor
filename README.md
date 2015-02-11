@@ -9,7 +9,7 @@ This project was created for educational purposes, It uses machine learning and 
 
 **Project consists of two modules**
 * Captcha crawler (Written in .NET)
-* Captcha Learner/Prdictor
+* Captcha Learner/Predictor
 
 ![alt tag](http://s25.postimg.org/yudzw0ukv/image.png)
 
