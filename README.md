@@ -8,18 +8,13 @@ This project was created for educational purposes, It uses machine learning and 
 * Use VisualStudio 2010 or greater to build 'Crawler' executable
 
 **Project consists of two modules**
-* Captcha crawler (Written in .NET)
+* Captcha crawler 
 * Captcha Learner/Predictor
 
 ![alt tag](/captchas.png)
 
 **SDK's Used**
-* Weka (http://www.cs.waikato.ac.nz/ml/weka)
 * ImageJ (http://imagej.nih.gov/ij)
 * JavaOCR (http://sourceforge.net/projects/javaocr)
-
-**Tools Used**
-* Netbeans
-* Visual Studio
 
 Email me for detailed reports. I have upgraded alot of things but haven't pushed them.
